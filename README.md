@@ -14,7 +14,7 @@ Currently pursuing a career in data analysis/science and health/epidemiology.
 - R
 - Python
 - English
-- Espanol
+- Español
 
 
 
