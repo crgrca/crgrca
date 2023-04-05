@@ -1,6 +1,4 @@
-<h3 align="center">
-Chris Guerra
-<h3>
+<h3>Chris Guerra<h3>
 
 
 <h4>About</h4>
@@ -10,7 +8,6 @@ Recent PhD graduate at UC Riverside. My dissertation investigated the associatio
 Currently pursuing a career in data analysis/science and health/epidemiology. 
 
 <h4>Languages</h4>
-  
 ---
 - R
 - Python
