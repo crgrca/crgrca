@@ -8,7 +8,8 @@ Recent PhD graduate at UC Riverside. My dissertation investigated the associatio
 Currently pursuing a career in data analysis/science and health/epidemiology. 
 
 <h4>Languages</h4>
----
+  
+
 - R
 - Python
 - English
